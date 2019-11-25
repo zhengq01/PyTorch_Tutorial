@@ -3,7 +3,7 @@
 ## Work Plan
 * 第一讲
 
-File | Summary
+Python File | Summary
 ------ | ------  
 Introduction to PyTorch.ipynb | 介绍深度学习及其编程框架，介绍 PyTorch 的动态图
 PyTorch Basics.ipynb | 介绍 PyTorch 中最基础的 Tensor, Variable 以及 autograd 机制
