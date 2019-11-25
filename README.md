@@ -1,4 +1,4 @@
-<div align=center><img width="650" height="350" src="https://github.com/zheng992328/PyTorch_Tutorial/blob/master/figs/pytorch.png"/></div>
+<div align=center><img width="650" height="350" src="https://github.com/zheng992328/PyTorch_Tutorial/blob/master/Images/pytorch.png"/></div>
  
 
 ## 第一讲
