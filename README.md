@@ -5,4 +5,4 @@
 
 File | Summary
 :-: | ------  
-\1. Introduction to PyTorch.ipynb | 介绍PyTorch基础
+1. Introduction to PyTorch.ipynb | 介绍PyTorch基础
