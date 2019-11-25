@@ -2,6 +2,7 @@
  
 ## Work Plan
 * 第一讲
+
 File | Summary
 :-: | ------  
 1.Introduction to PyTorch.ipynb | 介绍PyTorch基础
