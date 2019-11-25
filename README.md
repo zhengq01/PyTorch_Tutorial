@@ -4,4 +4,4 @@
 File | Summary
 :-: | ------  
 第一讲 | 第二讲
-1. Introduction to PyTorch.ipynb | 介绍PyTorch基础
+Introduction to PyTorch.ipynb | 介绍PyTorch基础
