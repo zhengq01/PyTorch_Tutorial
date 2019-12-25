@@ -1,7 +1,7 @@
 <div align=center><img width="650" height="350" src="https://github.com/zheng992328/PyTorch_Tutorial/blob/master/Images/pytorch.png"/></div>
  
 
-## 第一讲
+## 第一讲（2h 40min）
 
 Python File | Summary
 ------ | ------  
@@ -12,7 +12,7 @@ Python File | Summary
 5.Fully-Connected Neural Network.ipynb | 介绍简单的全连接神经网络，以及 PyTorch 提供的两种构建网络模型的工具
 
 
-## 第二讲
+## 第二讲（预计1h - 1.5h）
 Python File | Summary
 ------ | ------  
 6.Introduction to CNNs - Stanford CS231.pdf | 介绍CNNs基本概念
