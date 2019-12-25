@@ -15,6 +15,6 @@ Python File | Summary
 ## 第二讲（预计1h - 1.5h）
 Python File | Summary
 ------ | ------  
-6.Introduction to CNNs - Stanford CS231.pdf | 介绍CNNs基本概念
+6.Introduction to CNNs - Stanford CS231.pdf | 介绍CNNs的基本概念
 7.CNN Basics.ipynb | 介绍怎样在PyTorch中实现简单的CNNs
 7_S1.Edge Detection.pdf | 补充材料，介绍卷积运算与图像梯度求解之间的联系
