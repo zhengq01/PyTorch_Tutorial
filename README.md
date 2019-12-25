@@ -10,3 +10,11 @@ Python File | Summary
 3.Simple Linear Regression Model.ipynb | 介绍用于回归问题的线性回归模型，以及梯度下降方法
 4.Simple Logistic Regression Model.ipynb | 介绍用于分类问题的 Logistic 回归模型，以及用 PyTorch 自带函数实现损失计算，参数优化
 5.Fully-Connected Neural Network.ipynb | 介绍简单的全连接神经网络，以及 PyTorch 提供的两种构建网络模型的工具
+
+
+## 第二讲
+Python File | Summary
+------ | ------  
+6.Introduction to CNNs - Stanford CS231.pdf | 介绍CNNs基本概念
+7.CNN Basics.ipynb | 介绍怎样在PyTorch中实现简单的CNNs
+7_S1.Edge Detection.pdf | 补充材料，介绍卷积运算与图像梯度求解之间的联系
